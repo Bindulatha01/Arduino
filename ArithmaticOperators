@@ -1,12 +1,10 @@
 /* Arithmatic Operators */
 
 int a,b,c,d,e,f,g;
+
 void setup() {
    Serial.begin(9600);
    a=5,b=7;
-}
-
-void loop() {
    c=a+b;
    d=a-b;
    e=a*b;
@@ -17,5 +15,8 @@ void loop() {
    Serial.println(e);
    Serial.println(f);
    Serial.println(g);
+}
+
+void loop() {
 
 }
