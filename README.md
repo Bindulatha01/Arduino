@@ -25,5 +25,5 @@
 
 **UserInput OUTPUT**
 
-![tut6b](https://github.com/user-attachments/assets/52bdb78d-e3bc-4f06-bb46-d75e17e35dcd)
 ![tut6a](https://github.com/user-attachments/assets/514015e8-29b2-4006-91e5-317f49ea1ff6)
+![tut6b](https://github.com/user-attachments/assets/52bdb78d-e3bc-4f06-bb46-d75e17e35dcd)
