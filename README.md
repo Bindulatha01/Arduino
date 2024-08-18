@@ -34,7 +34,7 @@
 **Objective**<br>
 The objective of this program is to program an Arduino board, thereby introducing concepts of embedded systems programming and hardware interfacing.
 
-**Technology Used**
+**Technology Used**<br>
 1.Arduinoboard<br>
 2.ArduinoIDE<br>
 3.Proteus<br>
