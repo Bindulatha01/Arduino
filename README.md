@@ -1,4 +1,4 @@
-**Name**:* BINDULATHA BHUPATHI<br>
+**Name**: BINDULATHA BHUPATHI<br>
 **Roll No**: 22491A0405<br>
 **Domain**: EMBEDDED SYSTEMS<br>
 **Mentor**: BYTEXL TRAINEE<br>
@@ -10,3 +10,14 @@
 **AssignmentOperators OUTPUT**
 
 ![tut2](https://github.com/user-attachments/assets/a18a32b0-4eda-43e8-858e-b3e75299ac80)
+
+**CO OUTPUT**
+
+
+**LO OUTPUT**
+
+
+**LS OUTPUT**
+
+
+**UI OUTPUT**
