@@ -1,7 +1,10 @@
 **Name**: BINDULATHA BHUPATHI<br>
+**Company**: QISCET<br>
 **Roll No**: 22491A0405<br>
 **Domain**: EMBEDDED SYSTEMS<br>
 **Mentor**: BYTEXL TRAINEE<br>
+
+**Overview**
 
 **ArithmeticOperators OUTPUT**
 
@@ -27,3 +30,12 @@
 
 ![tut6a](https://github.com/user-attachments/assets/514015e8-29b2-4006-91e5-317f49ea1ff6)
 ![tut6b](https://github.com/user-attachments/assets/52bdb78d-e3bc-4f06-bb46-d75e17e35dcd)
+
+**Objective**<br>
+The objective of this program is to program an Arduino board, thereby introducing concepts of embedded systems programming and hardware interfacing.
+
+**Technology Used**
+
+1.Arduinoboard
+2.ArduinoIDE
+3.Proteus
