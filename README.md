@@ -31,6 +31,15 @@
 ![tut6a](https://github.com/user-attachments/assets/514015e8-29b2-4006-91e5-317f49ea1ff6)
 ![tut6b](https://github.com/user-attachments/assets/52bdb78d-e3bc-4f06-bb46-d75e17e35dcd)
 
+**Led Control OUTPUT**
+
+![LC](https://github.com/user-attachments/assets/ce10651b-e5f9-4629-a466-f4ed0b0079c3)
+
+**Switch LED OUTPUT**
+
+![SLed](https://github.com/user-attachments/assets/0ed794ec-a5af-4e12-b726-a3a618ff52fa)
+
+
 **Objective**<br>
 The objective of this program is to program an Arduino board, thereby introducing concepts of embedded systems programming and hardware interfacing.
 
