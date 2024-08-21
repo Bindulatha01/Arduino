@@ -151,3 +151,53 @@ void showNewData(){
     newData = false; 
   }
 }
+
+/* Led Control */
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(13,OUTPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  if(Serial.available()>0)
+  {
+    Serial.println("You Entered...");
+    String inputString = Serial.readString();
+     Serial.println(inputString);
+      if(inputString=="on")
+      {
+        digitalWrite(13,HIGH);
+        Serial.println("LED ON");
+      }
+      else if(inputString=="off")
+      {
+        digitalWrite(13,LOW);
+        Serial.println("LED OFF");
+      }
+  }
+}
+
+/* Switch LED */
+
+const int switchPin=4;
+const int ledPin=13;
+int switchState=0;
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(ledPin, OUTPUT);
+  pinMode(switchPin, INPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  switchState=digitalRead(switchPin);
+  if(switchState==HIGH)
+  {
+    digitalWrite(ledPin,HIGH);
+    delay(3000);
+  }
+   digitalWrite(ledPin,LOW);
+}
